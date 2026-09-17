@@ -37,3 +37,4 @@ Setelah menyelesaikan modul praktikum ini, mahasiswa diharapkan mampu:
     - tempat tanggal lahir
     - cita cita
     - rencana hidup
+    - <img width="632" height="245" alt="image" src="https://github.com/user-attachments/assets/1f8fafd7-1355-4b91-84cf-0ec88cfd7508" />
